@@ -1,4 +1,4 @@
-title:penguinの部屋
+title: penguinの部屋
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -12,8 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name:penguin
-  tagline:鳥みたいな人間
+  name: penguin
+  tagline: 鳥みたいな人間
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
